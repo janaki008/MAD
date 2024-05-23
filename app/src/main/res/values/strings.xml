@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">try</string>
+    <string name="sound_button_description">bye bye gyes\n</string>
+    <string name="play_button_text">Play</string>
+    <string name="pause_button_text">Pause</string>
+
+
+</resources>
